@@ -1,0 +1,18 @@
+composer require livewire/livewire laravel-frontend-presets/tall
+
+php artisan ui tall --auth
+o
+php artisan ui tall
+
+
+
+npm install
+npm run devç
+
+
+
+https://www.itsolutionstuff.com/post/laravel-8-livewire-crud-with-jetstream-tailwind-cssexample.html
+
+
+php artisan make:migration create_products_table
+
