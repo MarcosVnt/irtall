@@ -16,3 +16,8 @@ https://www.itsolutionstuff.com/post/laravel-8-livewire-crud-with-jetstream-tail
 
 php artisan make:migration create_products_table
 
+
+git remote add origin git@github.com:MarcosVnt/irtall.git
+https://github.com/MarcosVnt/irtall.git
+
+git push origin master
